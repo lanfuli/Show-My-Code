@@ -1,4 +1,4 @@
-package medium;
+// Choose this code, because I just finished this question today.
 import java.util.*;
 
 public class Letter_Combinations {
